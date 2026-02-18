@@ -1,2 +1,2 @@
-def calculate_salaru():
+def calculate_salary():
     print("Тут будем начислять деньги!")
